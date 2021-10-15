@@ -27,7 +27,6 @@ A 2D Fixed Shooter game demonstrating use of Design Patterns, Math, Physics and 
 ###  Remarks
 ---
 
-- Inspired by the game Demon Attack for the Atari, 1982.
 - Infinite levels with increasing difficulty.
 - Raven movement is powered by steering behaviors (wander, flee, seek) to find the next target position.
 - Bombs have random weight and fall with gravity pull.
